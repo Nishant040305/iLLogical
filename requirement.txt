@@ -1,1 +1,5 @@
-kaggle
+matplotlib
+tensorflow
+scipy
+jupyter
+numpy<2
