@@ -3,3 +3,4 @@ tensorflow
 scipy
 jupyter
 numpy<2
+opencv-python
