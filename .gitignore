@@ -1,3 +1,6 @@
-*.png
-*.csv
+test/
+train/
+chessboards/
+Dataset/
 myenv/
+Data/train/
